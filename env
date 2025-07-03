@@ -1,0 +1,11 @@
+# Configuração da API brapi.dev
+# Substitua YOUR_TOKEN_HERE pelo seu token real da brapi.dev
+BRAPI_TOKEN=YOUR_TOKEN_HERE
+
+# Para obter seu token:
+# 1. Acesse https://brapi.dev/
+# 2. Clique em "Obter Chave de API"
+# 3. Crie sua conta gratuita
+# 4. No Dashboard, copie seu token da seção "Chaves de API"
+# 5. Substitua YOUR_TOKEN_HERE acima pelo seu token real
+
